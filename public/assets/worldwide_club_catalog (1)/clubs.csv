@@ -1,0 +1,777 @@
+flag,club,country,country_code,league,confederation
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Arsenal,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Aston Villa,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,AFC Bournemouth,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Brentford,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Brighton & Hove Albion,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Burnley,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Chelsea,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Crystal Palace,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Everton,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Fulham,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Leeds United,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Liverpool,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Manchester City,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Manchester United,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Newcastle United,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Nottingham Forest,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Sunderland,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Tottenham Hotspur,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,West Ham United,England,GB-ENG,Premier League,UEFA
+🏴󠁧󠁢󠁥󠁮󠁧󠁿,Wolverhampton Wanderers,England,GB-ENG,Premier League,UEFA
+🇪🇸,Deportivo Alavés,Spain,ES,La Liga,UEFA
+🇪🇸,Athletic Club,Spain,ES,La Liga,UEFA
+🇪🇸,Atlético Madrid,Spain,ES,La Liga,UEFA
+🇪🇸,FC Barcelona,Spain,ES,La Liga,UEFA
+🇪🇸,Celta Vigo,Spain,ES,La Liga,UEFA
+🇪🇸,Elche,Spain,ES,La Liga,UEFA
+🇪🇸,Espanyol,Spain,ES,La Liga,UEFA
+🇪🇸,Getafe,Spain,ES,La Liga,UEFA
+🇪🇸,Girona,Spain,ES,La Liga,UEFA
+🇪🇸,Levante,Spain,ES,La Liga,UEFA
+🇪🇸,Mallorca,Spain,ES,La Liga,UEFA
+🇪🇸,Osasuna,Spain,ES,La Liga,UEFA
+🇪🇸,Real Oviedo,Spain,ES,La Liga,UEFA
+🇪🇸,Rayo Vallecano,Spain,ES,La Liga,UEFA
+🇪🇸,Real Betis,Spain,ES,La Liga,UEFA
+🇪🇸,Real Madrid,Spain,ES,La Liga,UEFA
+🇪🇸,Real Sociedad,Spain,ES,La Liga,UEFA
+🇪🇸,Sevilla,Spain,ES,La Liga,UEFA
+🇪🇸,Valencia,Spain,ES,La Liga,UEFA
+🇪🇸,Villarreal,Spain,ES,La Liga,UEFA
+🇮🇹,Atalanta,Italy,IT,Serie A,UEFA
+🇮🇹,Bologna,Italy,IT,Serie A,UEFA
+🇮🇹,Cagliari,Italy,IT,Serie A,UEFA
+🇮🇹,Como,Italy,IT,Serie A,UEFA
+🇮🇹,Cremonese,Italy,IT,Serie A,UEFA
+🇮🇹,Fiorentina,Italy,IT,Serie A,UEFA
+🇮🇹,Genoa,Italy,IT,Serie A,UEFA
+🇮🇹,Hellas Verona,Italy,IT,Serie A,UEFA
+🇮🇹,Inter Milan,Italy,IT,Serie A,UEFA
+🇮🇹,Juventus,Italy,IT,Serie A,UEFA
+🇮🇹,Lazio,Italy,IT,Serie A,UEFA
+🇮🇹,Lecce,Italy,IT,Serie A,UEFA
+🇮🇹,AC Milan,Italy,IT,Serie A,UEFA
+🇮🇹,Napoli,Italy,IT,Serie A,UEFA
+🇮🇹,Parma,Italy,IT,Serie A,UEFA
+🇮🇹,Pisa,Italy,IT,Serie A,UEFA
+🇮🇹,Roma,Italy,IT,Serie A,UEFA
+🇮🇹,Sassuolo,Italy,IT,Serie A,UEFA
+🇮🇹,Torino,Italy,IT,Serie A,UEFA
+🇮🇹,Udinese,Italy,IT,Serie A,UEFA
+🇩🇪,FC Augsburg,Germany,DE,Bundesliga,UEFA
+🇩🇪,Union Berlin,Germany,DE,Bundesliga,UEFA
+🇩🇪,Bayern Munich,Germany,DE,Bundesliga,UEFA
+🇩🇪,Borussia Dortmund,Germany,DE,Bundesliga,UEFA
+🇩🇪,Borussia Mönchengladbach,Germany,DE,Bundesliga,UEFA
+🇩🇪,Eintracht Frankfurt,Germany,DE,Bundesliga,UEFA
+🇩🇪,SC Freiburg,Germany,DE,Bundesliga,UEFA
+🇩🇪,Hamburger SV,Germany,DE,Bundesliga,UEFA
+🇩🇪,Heidenheim,Germany,DE,Bundesliga,UEFA
+🇩🇪,Hoffenheim,Germany,DE,Bundesliga,UEFA
+🇩🇪,1. FC Köln,Germany,DE,Bundesliga,UEFA
+🇩🇪,Mainz 05,Germany,DE,Bundesliga,UEFA
+🇩🇪,RB Leipzig,Germany,DE,Bundesliga,UEFA
+🇩🇪,FC St. Pauli,Germany,DE,Bundesliga,UEFA
+🇩🇪,VfB Stuttgart,Germany,DE,Bundesliga,UEFA
+🇩🇪,Bayer Leverkusen,Germany,DE,Bundesliga,UEFA
+🇩🇪,Werder Bremen,Germany,DE,Bundesliga,UEFA
+🇩🇪,VfL Wolfsburg,Germany,DE,Bundesliga,UEFA
+🇫🇷,Angers,France,FR,Ligue 1,UEFA
+🇫🇷,Auxerre,France,FR,Ligue 1,UEFA
+🇫🇷,Brest,France,FR,Ligue 1,UEFA
+🇫🇷,Le Havre,France,FR,Ligue 1,UEFA
+🇫🇷,Lens,France,FR,Ligue 1,UEFA
+🇫🇷,Lille,France,FR,Ligue 1,UEFA
+🇫🇷,Lorient,France,FR,Ligue 1,UEFA
+🇫🇷,Lyon,France,FR,Ligue 1,UEFA
+🇫🇷,Marseille,France,FR,Ligue 1,UEFA
+🇫🇷,Metz,France,FR,Ligue 1,UEFA
+🇫🇷,Monaco,France,FR,Ligue 1,UEFA
+🇫🇷,Nantes,France,FR,Ligue 1,UEFA
+🇫🇷,Nice,France,FR,Ligue 1,UEFA
+🇫🇷,Paris FC,France,FR,Ligue 1,UEFA
+🇫🇷,Paris Saint-Germain,France,FR,Ligue 1,UEFA
+🇫🇷,Rennes,France,FR,Ligue 1,UEFA
+🇫🇷,Strasbourg,France,FR,Ligue 1,UEFA
+🇫🇷,Toulouse,France,FR,Ligue 1,UEFA
+🇳🇱,Ajax,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,PSV Eindhoven,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Feyenoord,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,AZ Alkmaar,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,FC Twente,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,FC Utrecht,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Heerenveen,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Go Ahead Eagles,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,NEC Nijmegen,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Sparta Rotterdam,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Fortuna Sittard,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,PEC Zwolle,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Groningen,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Heracles,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,NAC Breda,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Willem II,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Excelsior,Netherlands,NL,Eredivisie,UEFA
+🇳🇱,Telstar,Netherlands,NL,Eredivisie,UEFA
+🇵🇹,Benfica,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Porto,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Sporting CP,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Braga,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Vitória SC,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Famalicão,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Gil Vicente,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Estoril,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Moreirense,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Rio Ave,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Santa Clara,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Arouca,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Casa Pia,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Nacional,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Alverca,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Estrela da Amadora,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,AVS,Portugal,PT,Primeira Liga,UEFA
+🇵🇹,Tondela,Portugal,PT,Primeira Liga,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Celtic,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Rangers,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Aberdeen,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Heart of Midlothian,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Hibernian,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Dundee United,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Motherwell,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Kilmarnock,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,St Mirren,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Falkirk,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Livingston,Scotland,GB-SCT,Scottish Premiership,UEFA
+🏴󠁧󠁢󠁳󠁣󠁴󠁿,Dundee,Scotland,GB-SCT,Scottish Premiership,UEFA
+🇧🇪,Club Brugge,Belgium,BE,Pro League,UEFA
+🇧🇪,Anderlecht,Belgium,BE,Pro League,UEFA
+🇧🇪,Union Saint-Gilloise,Belgium,BE,Pro League,UEFA
+🇧🇪,Genk,Belgium,BE,Pro League,UEFA
+🇧🇪,Gent,Belgium,BE,Pro League,UEFA
+🇧🇪,Antwerp,Belgium,BE,Pro League,UEFA
+🇧🇪,Standard Liège,Belgium,BE,Pro League,UEFA
+🇧🇪,Cercle Brugge,Belgium,BE,Pro League,UEFA
+🇧🇪,Mechelen,Belgium,BE,Pro League,UEFA
+🇧🇪,Sint-Truiden,Belgium,BE,Pro League,UEFA
+🇧🇪,Westerlo,Belgium,BE,Pro League,UEFA
+🇧🇪,Charleroi,Belgium,BE,Pro League,UEFA
+🇧🇪,OH Leuven,Belgium,BE,Pro League,UEFA
+🇧🇪,Zulte Waregem,Belgium,BE,Pro League,UEFA
+🇧🇪,Dender,Belgium,BE,Pro League,UEFA
+🇧🇪,La Louvière,Belgium,BE,Pro League,UEFA
+🇹🇷,Galatasaray,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Fenerbahçe,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Beşiktaş,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Trabzonspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Başakşehir,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Samsunspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Göztepe,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Konyaspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Antalyaspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Kasımpaşa,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Rizespor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Alanyaspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Gaziantep,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Kayserispor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Eyüpspor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Kocaelispor,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Gençlerbirliği,Turkey,TR,Süper Lig,UEFA
+🇹🇷,Karagümrük,Turkey,TR,Süper Lig,UEFA
+🇬🇷,Olympiacos,Greece,GR,Super League,UEFA
+🇬🇷,Panathinaikos,Greece,GR,Super League,UEFA
+🇬🇷,AEK Athens,Greece,GR,Super League,UEFA
+🇬🇷,PAOK,Greece,GR,Super League,UEFA
+🇬🇷,Aris,Greece,GR,Super League,UEFA
+🇬🇷,Volos,Greece,GR,Super League,UEFA
+🇬🇷,OFI Crete,Greece,GR,Super League,UEFA
+🇬🇷,Atromitos,Greece,GR,Super League,UEFA
+🇬🇷,Asteras Tripolis,Greece,GR,Super League,UEFA
+🇬🇷,Levadiakos,Greece,GR,Super League,UEFA
+🇬🇷,Panserraikos,Greece,GR,Super League,UEFA
+🇬🇷,Kifisia,Greece,GR,Super League,UEFA
+🇬🇷,Panetolikos,Greece,GR,Super League,UEFA
+🇬🇷,AEL,Greece,GR,Super League,UEFA
+🇨🇭,Basel,Switzerland,CH,Super League,UEFA
+🇨🇭,Young Boys,Switzerland,CH,Super League,UEFA
+🇨🇭,Servette,Switzerland,CH,Super League,UEFA
+🇨🇭,Lugano,Switzerland,CH,Super League,UEFA
+🇨🇭,Zürich,Switzerland,CH,Super League,UEFA
+🇨🇭,St. Gallen,Switzerland,CH,Super League,UEFA
+🇨🇭,Lausanne-Sport,Switzerland,CH,Super League,UEFA
+🇨🇭,Luzern,Switzerland,CH,Super League,UEFA
+🇨🇭,Sion,Switzerland,CH,Super League,UEFA
+🇨🇭,Grasshopper,Switzerland,CH,Super League,UEFA
+🇨🇭,Thun,Switzerland,CH,Super League,UEFA
+🇨🇭,Winterthur,Switzerland,CH,Super League,UEFA
+🇦🇹,Red Bull Salzburg,Austria,AT,Bundesliga,UEFA
+🇦🇹,Sturm Graz,Austria,AT,Bundesliga,UEFA
+🇦🇹,Rapid Wien,Austria,AT,Bundesliga,UEFA
+🇦🇹,Austria Wien,Austria,AT,Bundesliga,UEFA
+🇦🇹,LASK,Austria,AT,Bundesliga,UEFA
+🇦🇹,Wolfsberger AC,Austria,AT,Bundesliga,UEFA
+🇦🇹,Hartberg,Austria,AT,Bundesliga,UEFA
+🇦🇹,Austria Klagenfurt,Austria,AT,Bundesliga,UEFA
+🇦🇹,Altach,Austria,AT,Bundesliga,UEFA
+🇦🇹,Grazer AK,Austria,AT,Bundesliga,UEFA
+🇦🇹,Blau-Weiß Linz,Austria,AT,Bundesliga,UEFA
+🇦🇹,WSG Tirol,Austria,AT,Bundesliga,UEFA
+🇩🇰,FC Copenhagen,Denmark,DK,Superliga,UEFA
+🇩🇰,FC Midtjylland,Denmark,DK,Superliga,UEFA
+🇩🇰,Brøndby,Denmark,DK,Superliga,UEFA
+🇩🇰,AGF,Denmark,DK,Superliga,UEFA
+🇩🇰,Nordsjælland,Denmark,DK,Superliga,UEFA
+🇩🇰,Silkeborg,Denmark,DK,Superliga,UEFA
+🇩🇰,Randers,Denmark,DK,Superliga,UEFA
+🇩🇰,Viborg,Denmark,DK,Superliga,UEFA
+🇩🇰,Sønderjyske,Denmark,DK,Superliga,UEFA
+🇩🇰,AaB,Denmark,DK,Superliga,UEFA
+🇩🇰,Fredericia,Denmark,DK,Superliga,UEFA
+🇩🇰,Vejle,Denmark,DK,Superliga,UEFA
+🇸🇪,Malmö FF,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,AIK,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Djurgården,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Hammarby,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,IFK Göteborg,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Elfsborg,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Häcken,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Mjällby,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Kalmar,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Sirius,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Degerfors,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Halmstad,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Brommapojkarna,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Västerås,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,Örgryte,Sweden,SE,Allsvenskan,UEFA
+🇸🇪,GAIS,Sweden,SE,Allsvenskan,UEFA
+🇳🇴,Bodø/Glimt,Norway,NO,Eliteserien,UEFA
+🇳🇴,Brann,Norway,NO,Eliteserien,UEFA
+🇳🇴,Molde,Norway,NO,Eliteserien,UEFA
+🇳🇴,Rosenborg,Norway,NO,Eliteserien,UEFA
+🇳🇴,Viking,Norway,NO,Eliteserien,UEFA
+🇳🇴,Vålerenga,Norway,NO,Eliteserien,UEFA
+🇳🇴,Lillestrøm,Norway,NO,Eliteserien,UEFA
+🇳🇴,Tromsø,Norway,NO,Eliteserien,UEFA
+🇳🇴,Sarpsborg 08,Norway,NO,Eliteserien,UEFA
+🇳🇴,Fredrikstad,Norway,NO,Eliteserien,UEFA
+🇳🇴,Sandefjord,Norway,NO,Eliteserien,UEFA
+🇳🇴,KFUM Oslo,Norway,NO,Eliteserien,UEFA
+🇳🇴,HamKam,Norway,NO,Eliteserien,UEFA
+🇳🇴,Kristiansund,Norway,NO,Eliteserien,UEFA
+🇳🇴,Start,Norway,NO,Eliteserien,UEFA
+🇳🇴,Aalesund,Norway,NO,Eliteserien,UEFA
+🇷🇺,Zenit,Russia,RU,Premier League,UEFA
+🇷🇺,Spartak Moscow,Russia,RU,Premier League,UEFA
+🇷🇺,CSKA Moscow,Russia,RU,Premier League,UEFA
+🇷🇺,Dynamo Moscow,Russia,RU,Premier League,UEFA
+🇷🇺,Lokomotiv Moscow,Russia,RU,Premier League,UEFA
+🇷🇺,Krasnodar,Russia,RU,Premier League,UEFA
+🇷🇺,Rubin Kazan,Russia,RU,Premier League,UEFA
+🇷🇺,Akhmat Grozny,Russia,RU,Premier League,UEFA
+🇷🇺,Rostov,Russia,RU,Premier League,UEFA
+🇷🇺,Krylia Sovetov,Russia,RU,Premier League,UEFA
+🇷🇺,Sochi,Russia,RU,Premier League,UEFA
+🇷🇺,Baltika,Russia,RU,Premier League,UEFA
+🇷🇺,Orenburg,Russia,RU,Premier League,UEFA
+🇷🇺,Akron Tolyatti,Russia,RU,Premier League,UEFA
+🇷🇺,Dynamo Makhachkala,Russia,RU,Premier League,UEFA
+🇷🇺,Pari Nizhny Novgorod,Russia,RU,Premier League,UEFA
+🇺🇦,Shakhtar Donetsk,Ukraine,UA,Premier League,UEFA
+🇺🇦,Dynamo Kyiv,Ukraine,UA,Premier League,UEFA
+🇺🇦,Zorya Luhansk,Ukraine,UA,Premier League,UEFA
+🇺🇦,Kryvbas,Ukraine,UA,Premier League,UEFA
+🇺🇦,Polissya,Ukraine,UA,Premier League,UEFA
+🇺🇦,Oleksandriya,Ukraine,UA,Premier League,UEFA
+🇺🇦,Veres Rivne,Ukraine,UA,Premier League,UEFA
+🇺🇦,LNZ Cherkasy,Ukraine,UA,Premier League,UEFA
+🇺🇦,Kolos Kovalivka,Ukraine,UA,Premier League,UEFA
+🇺🇦,Metalist 1925,Ukraine,UA,Premier League,UEFA
+🇺🇦,Obolon Kyiv,Ukraine,UA,Premier League,UEFA
+🇺🇦,Epitsentr,Ukraine,UA,Premier League,UEFA
+🇺🇦,Karpaty Lviv,Ukraine,UA,Premier League,UEFA
+🇺🇦,Rukh Lviv,Ukraine,UA,Premier League,UEFA
+🇵🇱,Legia Warsaw,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Lech Poznań,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Raków Częstochowa,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Jagiellonia Białystok,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Pogoń Szczecin,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Cracovia,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Górnik Zabrze,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Wisła Płock,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Lechia Gdańsk,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Śląsk Wrocław,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Zagłębie Lubin,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Piast Gliwice,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Widzew Łódź,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Korona Kielce,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Motor Lublin,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Radomiak Radom,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,GKS Katowice,Poland,PL,Ekstraklasa,UEFA
+🇵🇱,Arka Gdynia,Poland,PL,Ekstraklasa,UEFA
+🇨🇿,Sparta Prague,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Slavia Prague,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Viktoria Plzeň,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Baník Ostrava,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Mladá Boleslav,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Sigma Olomouc,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Slovan Liberec,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Hradec Králové,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Bohemians 1905,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Jablonec,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Teplice,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Slovácko,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Dukla Prague,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Karviná,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,Pardubice,Czech Republic,CZ,Czech First League,UEFA
+🇨🇿,České Budějovice,Czech Republic,CZ,Czech First League,UEFA
+🇭🇷,Dinamo Zagreb,Croatia,HR,HNL,UEFA
+🇭🇷,Hajduk Split,Croatia,HR,HNL,UEFA
+🇭🇷,Rijeka,Croatia,HR,HNL,UEFA
+🇭🇷,Osijek,Croatia,HR,HNL,UEFA
+🇭🇷,Lokomotiva,Croatia,HR,HNL,UEFA
+🇭🇷,Gorica,Croatia,HR,HNL,UEFA
+🇭🇷,Varaždin,Croatia,HR,HNL,UEFA
+🇭🇷,Istra 1961,Croatia,HR,HNL,UEFA
+🇭🇷,Slaven Belupo,Croatia,HR,HNL,UEFA
+🇭🇷,Vukovar 1991,Croatia,HR,HNL,UEFA
+🇷🇸,Red Star Belgrade,Serbia,RS,Super Liga,UEFA
+🇷🇸,Partizan,Serbia,RS,Super Liga,UEFA
+🇷🇸,Vojvodina,Serbia,RS,Super Liga,UEFA
+🇷🇸,TSC Bačka Topola,Serbia,RS,Super Liga,UEFA
+🇷🇸,Čukarički,Serbia,RS,Super Liga,UEFA
+🇷🇸,Radnički Niš,Serbia,RS,Super Liga,UEFA
+🇷🇸,Novi Pazar,Serbia,RS,Super Liga,UEFA
+🇷🇸,Napredak,Serbia,RS,Super Liga,UEFA
+🇷🇸,Mladost Lučani,Serbia,RS,Super Liga,UEFA
+🇷🇸,Spartak Subotica,Serbia,RS,Super Liga,UEFA
+🇷🇸,OFK Beograd,Serbia,RS,Super Liga,UEFA
+🇷🇸,Javor Ivanjica,Serbia,RS,Super Liga,UEFA
+🇷🇴,FCSB,Romania,RO,SuperLiga,UEFA
+🇷🇴,CFR Cluj,Romania,RO,SuperLiga,UEFA
+🇷🇴,Universitatea Craiova,Romania,RO,SuperLiga,UEFA
+🇷🇴,Rapid Bucharest,Romania,RO,SuperLiga,UEFA
+🇷🇴,Dinamo Bucharest,Romania,RO,SuperLiga,UEFA
+🇷🇴,Sepsi,Romania,RO,SuperLiga,UEFA
+🇷🇴,Farul Constanța,Romania,RO,SuperLiga,UEFA
+🇷🇴,UTA Arad,Romania,RO,SuperLiga,UEFA
+🇷🇴,Petrolul Ploiești,Romania,RO,SuperLiga,UEFA
+🇷🇴,Oțelul Galați,Romania,RO,SuperLiga,UEFA
+🇷🇴,Hermannstadt,Romania,RO,SuperLiga,UEFA
+🇷🇴,Botoșani,Romania,RO,SuperLiga,UEFA
+🇷🇴,Csíkszereda,Romania,RO,SuperLiga,UEFA
+🇷🇴,Unirea Slobozia,Romania,RO,SuperLiga,UEFA
+🇷🇴,Universitatea Cluj,Romania,RO,SuperLiga,UEFA
+🇷🇴,Metaloglobus,Romania,RO,SuperLiga,UEFA
+🇭🇺,Ferencváros,Hungary,HU,NB I,UEFA
+🇭🇺,Paks,Hungary,HU,NB I,UEFA
+🇭🇺,Puskás Akadémia,Hungary,HU,NB I,UEFA
+🇭🇺,Győr,Hungary,HU,NB I,UEFA
+🇭🇺,Kisvárda,Hungary,HU,NB I,UEFA
+🇭🇺,Debrecen,Hungary,HU,NB I,UEFA
+🇭🇺,Zalaegerszeg,Hungary,HU,NB I,UEFA
+🇭🇺,Diósgyőr,Hungary,HU,NB I,UEFA
+🇭🇺,Újpest,Hungary,HU,NB I,UEFA
+🇭🇺,MTK Budapest,Hungary,HU,NB I,UEFA
+🇭🇺,Nyíregyháza,Hungary,HU,NB I,UEFA
+🇭🇺,Kazincbarcika,Hungary,HU,NB I,UEFA
+🇧🇬,Ludogorets,Bulgaria,BG,First League,UEFA
+🇧🇬,Levski Sofia,Bulgaria,BG,First League,UEFA
+🇧🇬,CSKA Sofia,Bulgaria,BG,First League,UEFA
+🇧🇬,Lokomotiv Plovdiv,Bulgaria,BG,First League,UEFA
+🇧🇬,Cherno More,Bulgaria,BG,First League,UEFA
+🇧🇬,Botev Plovdiv,Bulgaria,BG,First League,UEFA
+🇧🇬,CSKA 1948,Bulgaria,BG,First League,UEFA
+🇧🇬,Beroe,Bulgaria,BG,First League,UEFA
+🇧🇬,Slavia Sofia,Bulgaria,BG,First League,UEFA
+🇧🇬,Arda Kardzhali,Bulgaria,BG,First League,UEFA
+🇧🇬,Montana,Bulgaria,BG,First League,UEFA
+🇧🇬,Spartak Varna,Bulgaria,BG,First League,UEFA
+🇧🇬,Dobrudzha,Bulgaria,BG,First League,UEFA
+🇧🇬,Botev Vratsa,Bulgaria,BG,First League,UEFA
+🇧🇬,Septemvri Sofia,Bulgaria,BG,First League,UEFA
+🇧🇬,Lokomotiv Sofia,Bulgaria,BG,First League,UEFA
+🇮🇪,Shamrock Rovers,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Shelbourne,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Derry City,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Bohemians,Ireland,IE,League of Ireland,UEFA
+🇮🇪,St Patrick's Athletic,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Sligo Rovers,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Drogheda United,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Galway United,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Waterford,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Cork City,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Dundalk,Ireland,IE,League of Ireland,UEFA
+🇮🇪,Finn Harps,Ireland,IE,League of Ireland,UEFA
+🇧🇷,Flamengo,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Palmeiras,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Corinthians,Brazil,BR,Série A,CONMEBOL
+🇧🇷,São Paulo,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Santos,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Fluminense,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Botafogo,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Vasco da Gama,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Grêmio,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Internacional,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Atlético Mineiro,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Cruzeiro,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Bahia,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Fortaleza,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Athletico Paranaense,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Bragantino,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Vitória,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Juventude,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Mirassol,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Ceará,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Sport Recife,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Remo,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Coritiba,Brazil,BR,Série A,CONMEBOL
+🇧🇷,Chapecoense,Brazil,BR,Série A,CONMEBOL
+🇦🇷,Boca Juniors,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,River Plate,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Independiente,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Racing Club,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,San Lorenzo,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Estudiantes,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Vélez Sarsfield,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Rosario Central,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Newell's Old Boys,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Lanús,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Talleres,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Argentinos Juniors,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Huracán,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Banfield,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Defensa y Justicia,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Godoy Cruz,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Belgrano,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Platense,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Tigre,Argentina,AR,Liga Profesional,CONMEBOL
+🇦🇷,Instituto,Argentina,AR,Liga Profesional,CONMEBOL
+🇺🇾,Peñarol,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Nacional,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Defensor Sporting,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Liverpool Montevideo,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Danubio,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Montevideo Wanderers,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Cerro Largo,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Racing Montevideo,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Boston River,Uruguay,UY,Primera División,CONMEBOL
+🇺🇾,Plaza Colonia,Uruguay,UY,Primera División,CONMEBOL
+🇨🇱,Colo-Colo,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Universidad de Chile,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Universidad Católica,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Cobreloa,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Huachipato,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Palestino,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Unión Española,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Audax Italiano,Chile,CL,Primera División,CONMEBOL
+🇨🇱,Coquimbo Unido,Chile,CL,Primera División,CONMEBOL
+🇨🇱,O'Higgins,Chile,CL,Primera División,CONMEBOL
+🇨🇴,Atlético Nacional,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Millonarios,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,América de Cali,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Deportivo Cali,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Junior,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Independiente Santa Fe,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Once Caldas,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Deportes Tolima,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Independiente Medellín,Colombia,CO,Categoría Primera A,CONMEBOL
+🇨🇴,Atlético Bucaramanga,Colombia,CO,Categoría Primera A,CONMEBOL
+🇪🇨,LDU Quito,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Barcelona SC,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Emelec,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Independiente del Valle,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Aucas,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,El Nacional,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Deportivo Cuenca,Ecuador,EC,Serie A,CONMEBOL
+🇪🇨,Delfín,Ecuador,EC,Serie A,CONMEBOL
+🇵🇾,Olimpia,Paraguay,PY,Primera División,CONMEBOL
+🇵🇾,Cerro Porteño,Paraguay,PY,Primera División,CONMEBOL
+🇵🇾,Libertad,Paraguay,PY,Primera División,CONMEBOL
+🇵🇾,Guaraní,Paraguay,PY,Primera División,CONMEBOL
+🇵🇾,Nacional Asunción,Paraguay,PY,Primera División,CONMEBOL
+🇵🇾,Sol de América,Paraguay,PY,Primera División,CONMEBOL
+🇵🇪,Alianza Lima,Peru,PE,Liga 1,CONMEBOL
+🇵🇪,Universitario,Peru,PE,Liga 1,CONMEBOL
+🇵🇪,Sporting Cristal,Peru,PE,Liga 1,CONMEBOL
+🇵🇪,Melgar,Peru,PE,Liga 1,CONMEBOL
+🇵🇪,Cusco FC,Peru,PE,Liga 1,CONMEBOL
+🇵🇪,Cienciano,Peru,PE,Liga 1,CONMEBOL
+🇺🇸,Atlanta United,USA,US,MLS,CONCACAF
+🇺🇸,Austin FC,USA,US,MLS,CONCACAF
+🇺🇸,CF Montréal,USA,US,MLS,CONCACAF
+🇺🇸,Charlotte FC,USA,US,MLS,CONCACAF
+🇺🇸,Chicago Fire,USA,US,MLS,CONCACAF
+🇺🇸,FC Cincinnati,USA,US,MLS,CONCACAF
+🇺🇸,Colorado Rapids,USA,US,MLS,CONCACAF
+🇺🇸,Columbus Crew,USA,US,MLS,CONCACAF
+🇺🇸,FC Dallas,USA,US,MLS,CONCACAF
+🇺🇸,D.C. United,USA,US,MLS,CONCACAF
+🇺🇸,Houston Dynamo,USA,US,MLS,CONCACAF
+🇺🇸,Inter Miami,USA,US,MLS,CONCACAF
+🇺🇸,LA Galaxy,USA,US,MLS,CONCACAF
+🇺🇸,LAFC,USA,US,MLS,CONCACAF
+🇺🇸,Minnesota United,USA,US,MLS,CONCACAF
+🇺🇸,Nashville SC,USA,US,MLS,CONCACAF
+🇺🇸,New England Revolution,USA,US,MLS,CONCACAF
+🇺🇸,New York City FC,USA,US,MLS,CONCACAF
+🇺🇸,New York Red Bulls,USA,US,MLS,CONCACAF
+🇺🇸,Orlando City,USA,US,MLS,CONCACAF
+🇺🇸,Philadelphia Union,USA,US,MLS,CONCACAF
+🇺🇸,Portland Timbers,USA,US,MLS,CONCACAF
+🇺🇸,Real Salt Lake,USA,US,MLS,CONCACAF
+🇺🇸,San Diego FC,USA,US,MLS,CONCACAF
+🇺🇸,San Jose Earthquakes,USA,US,MLS,CONCACAF
+🇺🇸,Seattle Sounders,USA,US,MLS,CONCACAF
+🇺🇸,Sporting Kansas City,USA,US,MLS,CONCACAF
+🇺🇸,St. Louis City,USA,US,MLS,CONCACAF
+🇺🇸,Toronto FC,USA,US,MLS,CONCACAF
+🇺🇸,Vancouver Whitecaps,USA,US,MLS,CONCACAF
+🇲🇽,América,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Guadalajara (Chivas),Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Cruz Azul,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,UNAM Pumas,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Tigres UANL,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Monterrey,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Toluca,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Santos Laguna,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,León,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Pachuca,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Atlas,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Necaxa,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Querétaro,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Puebla,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Mazatlán,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,FC Juárez,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Tijuana,Mexico,MX,Liga MX,CONCACAF
+🇲🇽,Atlético San Luis,Mexico,MX,Liga MX,CONCACAF
+🇨🇷,Saprissa,Costa Rica,CR,Primera División,CONCACAF
+🇨🇷,Alajuelense,Costa Rica,CR,Primera División,CONCACAF
+🇨🇷,Herediano,Costa Rica,CR,Primera División,CONCACAF
+🇨🇷,Cartaginés,Costa Rica,CR,Primera División,CONCACAF
+🇨🇷,Pérez Zeledón,Costa Rica,CR,Primera División,CONCACAF
+🇨🇷,Guadalupe,Costa Rica,CR,Primera División,CONCACAF
+🇳🇬,Enyimba,Nigeria,NG,NPFL,CAF
+🇳🇬,Rangers International,Nigeria,NG,NPFL,CAF
+🇳🇬,Kano Pillars,Nigeria,NG,NPFL,CAF
+🇳🇬,Remo Stars,Nigeria,NG,NPFL,CAF
+🇳🇬,Rivers United,Nigeria,NG,NPFL,CAF
+🇳🇬,Shooting Stars,Nigeria,NG,NPFL,CAF
+🇳🇬,Plateau United,Nigeria,NG,NPFL,CAF
+🇳🇬,Bendel Insurance,Nigeria,NG,NPFL,CAF
+🇳🇬,Lobi Stars,Nigeria,NG,NPFL,CAF
+🇳🇬,Heartland,Nigeria,NG,NPFL,CAF
+🇳🇬,Sunshine Stars,Nigeria,NG,NPFL,CAF
+🇳🇬,Abia Warriors,Nigeria,NG,NPFL,CAF
+🇳🇬,Niger Tornadoes,Nigeria,NG,NPFL,CAF
+🇳🇬,El-Kanemi Warriors,Nigeria,NG,NPFL,CAF
+🇳🇬,Katsina United,Nigeria,NG,NPFL,CAF
+🇳🇬,Wikki Tourists,Nigeria,NG,NPFL,CAF
+🇳🇬,Kwara United,Nigeria,NG,NPFL,CAF
+🇳🇬,Nasarawa United,Nigeria,NG,NPFL,CAF
+🇳🇬,Bayelsa United,Nigeria,NG,NPFL,CAF
+🇳🇬,Gombe United,Nigeria,NG,NPFL,CAF
+🇬🇭,Asante Kotoko,Ghana,GH,Premier League,CAF
+🇬🇭,Hearts of Oak,Ghana,GH,Premier League,CAF
+🇬🇭,Medeama,Ghana,GH,Premier League,CAF
+🇬🇭,Aduana Stars,Ghana,GH,Premier League,CAF
+🇬🇭,Bechem United,Ghana,GH,Premier League,CAF
+🇬🇭,Dreams FC,Ghana,GH,Premier League,CAF
+🇬🇭,Berekum Chelsea,Ghana,GH,Premier League,CAF
+🇬🇭,Legon Cities,Ghana,GH,Premier League,CAF
+🇬🇭,Samartex,Ghana,GH,Premier League,CAF
+🇬🇭,Nsoatreman,Ghana,GH,Premier League,CAF
+🇿🇦,Mamelodi Sundowns,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Kaizer Chiefs,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Orlando Pirates,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Stellenbosch,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,SuperSport United,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Cape Town City,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,AmaZulu,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Sekhukhune United,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,TS Galaxy,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Royal AM,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Polokwane City,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Golden Arrows,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Chippa United,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Magesi,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Richards Bay,South Africa,ZA,Premier Soccer League,CAF
+🇿🇦,Durban City,South Africa,ZA,Premier Soccer League,CAF
+🇪🇬,Al Ahly,Egypt,EG,Premier League,CAF
+🇪🇬,Zamalek,Egypt,EG,Premier League,CAF
+🇪🇬,Pyramids,Egypt,EG,Premier League,CAF
+🇪🇬,Future FC,Egypt,EG,Premier League,CAF
+🇪🇬,Ceramica Cleopatra,Egypt,EG,Premier League,CAF
+🇪🇬,Smouha,Egypt,EG,Premier League,CAF
+🇪🇬,Al Masry,Egypt,EG,Premier League,CAF
+🇪🇬,ENPPI,Egypt,EG,Premier League,CAF
+🇪🇬,Ismaily,Egypt,EG,Premier League,CAF
+🇪🇬,Modern Sport,Egypt,EG,Premier League,CAF
+🇪🇬,Al Mokawloon,Egypt,EG,Premier League,CAF
+🇪🇬,Tala'ea El Gaish,Egypt,EG,Premier League,CAF
+🇲🇦,Wydad Casablanca,Morocco,MA,Botola Pro,CAF
+🇲🇦,Raja Casablanca,Morocco,MA,Botola Pro,CAF
+🇲🇦,AS FAR,Morocco,MA,Botola Pro,CAF
+🇲🇦,RS Berkane,Morocco,MA,Botola Pro,CAF
+🇲🇦,Hassania Agadir,Morocco,MA,Botola Pro,CAF
+🇲🇦,FUS Rabat,Morocco,MA,Botola Pro,CAF
+🇲🇦,Maghreb Fès,Morocco,MA,Botola Pro,CAF
+🇲🇦,Olympic Safi,Morocco,MA,Botola Pro,CAF
+🇹🇳,Espérance de Tunis,Tunisia,TN,Ligue 1,CAF
+🇹🇳,Club Africain,Tunisia,TN,Ligue 1,CAF
+🇹🇳,Étoile du Sahel,Tunisia,TN,Ligue 1,CAF
+🇹🇳,CS Sfaxien,Tunisia,TN,Ligue 1,CAF
+🇹🇳,US Monastir,Tunisia,TN,Ligue 1,CAF
+🇹🇳,Stade Tunisien,Tunisia,TN,Ligue 1,CAF
+🇩🇿,USM Alger,Algeria,DZ,Ligue 1,CAF
+🇩🇿,CR Belouizdad,Algeria,DZ,Ligue 1,CAF
+🇩🇿,MC Alger,Algeria,DZ,Ligue 1,CAF
+🇩🇿,JS Kabylie,Algeria,DZ,Ligue 1,CAF
+🇩🇿,ES Sétif,Algeria,DZ,Ligue 1,CAF
+🇩🇿,JS Saoura,Algeria,DZ,Ligue 1,CAF
+🇩🇿,Paradou AC,Algeria,DZ,Ligue 1,CAF
+🇸🇳,Jaraaf,Senegal,SN,Ligue 1,CAF
+🇸🇳,Génération Foot,Senegal,SN,Ligue 1,CAF
+🇸🇳,Teungueth FC,Senegal,SN,Ligue 1,CAF
+🇸🇳,Casa Sports,Senegal,SN,Ligue 1,CAF
+🇸🇳,Diambars,Senegal,SN,Ligue 1,CAF
+🇨🇲,Coton Sport,Cameroon,CM,Elite One,CAF
+🇨🇲,Canon Yaoundé,Cameroon,CM,Elite One,CAF
+🇨🇲,Union Douala,Cameroon,CM,Elite One,CAF
+🇨🇲,Fovu Baham,Cameroon,CM,Elite One,CAF
+🇨🇲,Colombe Sangmélima,Cameroon,CM,Elite One,CAF
+🇨🇩,TP Mazembe,DR Congo,CD,Linafoot,CAF
+🇨🇩,AS Vita Club,DR Congo,CD,Linafoot,CAF
+🇨🇩,DC Motema Pembe,DR Congo,CD,Linafoot,CAF
+🇨🇩,FC Saint Eloi Lupopo,DR Congo,CD,Linafoot,CAF
+🇨🇮,ASEC Mimosas,Ivory Coast,CI,Ligue 1,CAF
+🇨🇮,Africa Sports,Ivory Coast,CI,Ligue 1,CAF
+🇨🇮,SC Gagnoa,Ivory Coast,CI,Ligue 1,CAF
+🇨🇮,Stade d'Abidjan,Ivory Coast,CI,Ligue 1,CAF
+🇰🇪,Gor Mahia,Kenya,KE,Premier League,CAF
+🇰🇪,AFC Leopards,Kenya,KE,Premier League,CAF
+🇰🇪,Tusker,Kenya,KE,Premier League,CAF
+🇰🇪,Kenya Police,Kenya,KE,Premier League,CAF
+🇰🇪,Bandari,Kenya,KE,Premier League,CAF
+🇰🇪,Kakamega Homeboyz,Kenya,KE,Premier League,CAF
+🇸🇦,Al Hilal,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Nassr,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Ittihad,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Ahli,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Shabab,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Taawoun,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Fateh,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Ettifaq,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Fayha,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Khaleej,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Damac,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Raed,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Okhdood,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Qadsiah,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Riyadh,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Neom,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Kholood,Saudi Arabia,SA,Pro League,AFC
+🇸🇦,Al Najma,Saudi Arabia,SA,Pro League,AFC
+🇦🇪,Al Ain,UAE,AE,Pro League,AFC
+🇦🇪,Shabab Al Ahli,UAE,AE,Pro League,AFC
+🇦🇪,Al Wasl,UAE,AE,Pro League,AFC
+🇦🇪,Al Jazira,UAE,AE,Pro League,AFC
+🇦🇪,Sharjah,UAE,AE,Pro League,AFC
+🇦🇪,Al Nasr,UAE,AE,Pro League,AFC
+🇦🇪,Al Wahda,UAE,AE,Pro League,AFC
+🇦🇪,Bani Yas,UAE,AE,Pro League,AFC
+🇦🇪,Ajman,UAE,AE,Pro League,AFC
+🇦🇪,Kalba,UAE,AE,Pro League,AFC
+🇦🇪,Khor Fakkan,UAE,AE,Pro League,AFC
+🇦🇪,Baniyas,UAE,AE,Pro League,AFC
+🇶🇦,Al Sadd,Qatar,QA,Stars League,AFC
+🇶🇦,Al Duhail,Qatar,QA,Stars League,AFC
+🇶🇦,Al Rayyan,Qatar,QA,Stars League,AFC
+🇶🇦,Al Gharafa,Qatar,QA,Stars League,AFC
+🇶🇦,Al Arabi,Qatar,QA,Stars League,AFC
+🇶🇦,Al Wakrah,Qatar,QA,Stars League,AFC
+🇶🇦,Qatar SC,Qatar,QA,Stars League,AFC
+🇶🇦,Umm Salal,Qatar,QA,Stars League,AFC
+🇮🇷,Persepolis,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Esteghlal,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Sepahan,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Tractor,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Foolad,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Gol Gohar,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Nassaji Mazandaran,Iran,IR,Persian Gulf Pro League,AFC
+🇮🇷,Malavan,Iran,IR,Persian Gulf Pro League,AFC
+🇯🇵,Kashima Antlers,Japan,JP,J1 League,AFC
+🇯🇵,Urawa Red Diamonds,Japan,JP,J1 League,AFC
+🇯🇵,Vissel Kobe,Japan,JP,J1 League,AFC
+🇯🇵,Yokohama F. Marinos,Japan,JP,J1 League,AFC
+🇯🇵,Kawasaki Frontale,Japan,JP,J1 League,AFC
+🇯🇵,Gamba Osaka,Japan,JP,J1 League,AFC
+🇯🇵,Cerezo Osaka,Japan,JP,J1 League,AFC
+🇯🇵,Sanfrecce Hiroshima,Japan,JP,J1 League,AFC
+🇯🇵,Nagoya Grampus,Japan,JP,J1 League,AFC
+🇯🇵,FC Tokyo,Japan,JP,J1 League,AFC
+🇯🇵,Kashiwa Reysol,Japan,JP,J1 League,AFC
+🇯🇵,Avispa Fukuoka,Japan,JP,J1 League,AFC
+🇯🇵,Machida Zelvia,Japan,JP,J1 League,AFC
+🇯🇵,Shimizu S-Pulse,Japan,JP,J1 League,AFC
+🇯🇵,Kyoto Sanga,Japan,JP,J1 League,AFC
+🇯🇵,Fagiano Okayama,Japan,JP,J1 League,AFC
+🇯🇵,Tokyo Verdy,Japan,JP,J1 League,AFC
+🇯🇵,Albirex Niigata,Japan,JP,J1 League,AFC
+🇰🇷,Jeonbuk Hyundai Motors,South Korea,KR,K League 1,AFC
+🇰🇷,Ulsan HD,South Korea,KR,K League 1,AFC
+🇰🇷,FC Seoul,South Korea,KR,K League 1,AFC
+🇰🇷,Pohang Steelers,South Korea,KR,K League 1,AFC
+🇰🇷,Suwon Samsung Bluewings,South Korea,KR,K League 1,AFC
+🇰🇷,Daegu FC,South Korea,KR,K League 1,AFC
+🇰🇷,Incheon United,South Korea,KR,K League 1,AFC
+🇰🇷,Gangwon FC,South Korea,KR,K League 1,AFC
+🇰🇷,Jeju United,South Korea,KR,K League 1,AFC
+🇰🇷,Gwangju FC,South Korea,KR,K League 1,AFC
+🇰🇷,Daejeon Hana Citizen,South Korea,KR,K League 1,AFC
+🇰🇷,Gimcheon Sangmu,South Korea,KR,K League 1,AFC
+🇨🇳,Shanghai Port,China,CN,Super League,AFC
+🇨🇳,Shandong Taishan,China,CN,Super League,AFC
+🇨🇳,Beijing Guoan,China,CN,Super League,AFC
+🇨🇳,Shanghai Shenhua,China,CN,Super League,AFC
+🇨🇳,Chengdu Rongcheng,China,CN,Super League,AFC
+🇨🇳,Zhejiang FC,China,CN,Super League,AFC
+🇨🇳,Tianjin Jinmen Tiger,China,CN,Super League,AFC
+🇨🇳,Henan FC,China,CN,Super League,AFC
+🇨🇳,Wuhan Three Towns,China,CN,Super League,AFC
+🇨🇳,Dalian Yingbo,China,CN,Super League,AFC
+🇨🇳,Qingdao West Coast,China,CN,Super League,AFC
+🇨🇳,Changchun Yatai,China,CN,Super League,AFC
+🇮🇳,Mohun Bagan Super Giant,India,IN,Indian Super League,AFC
+🇮🇳,East Bengal,India,IN,Indian Super League,AFC
+🇮🇳,Bengaluru FC,India,IN,Indian Super League,AFC
+🇮🇳,Mumbai City,India,IN,Indian Super League,AFC
+🇮🇳,Kerala Blasters,India,IN,Indian Super League,AFC
+🇮🇳,FC Goa,India,IN,Indian Super League,AFC
+🇮🇳,Jamshedpur FC,India,IN,Indian Super League,AFC
+🇮🇳,Chennaiyin FC,India,IN,Indian Super League,AFC
+🇮🇳,NorthEast United,India,IN,Indian Super League,AFC
+🇮🇳,Odisha FC,India,IN,Indian Super League,AFC
+🇮🇳,Punjab FC,India,IN,Indian Super League,AFC
+🇮🇳,Mohammedan SC,India,IN,Indian Super League,AFC
+🇹🇭,Buriram United,Thailand,TH,Thai League 1,AFC
+🇹🇭,Bangkok United,Thailand,TH,Thai League 1,AFC
+🇹🇭,BG Pathum United,Thailand,TH,Thai League 1,AFC
+🇹🇭,Muangthong United,Thailand,TH,Thai League 1,AFC
+🇹🇭,Port FC,Thailand,TH,Thai League 1,AFC
+🇹🇭,Chiangrai United,Thailand,TH,Thai League 1,AFC
+🇦🇺,Melbourne City,Australia,AU,A-League Men,AFC
+🇦🇺,Melbourne Victory,Australia,AU,A-League Men,AFC
+🇦🇺,Sydney FC,Australia,AU,A-League Men,AFC
+🇦🇺,Western Sydney Wanderers,Australia,AU,A-League Men,AFC
+🇦🇺,Central Coast Mariners,Australia,AU,A-League Men,AFC
+🇦🇺,Adelaide United,Australia,AU,A-League Men,AFC
+🇦🇺,Brisbane Roar,Australia,AU,A-League Men,AFC
+🇦🇺,Wellington Phoenix,Australia,AU,A-League Men,AFC
+🇦🇺,Newcastle Jets,Australia,AU,A-League Men,AFC
+🇦🇺,Macarthur FC,Australia,AU,A-League Men,AFC
+🇦🇺,Perth Glory,Australia,AU,A-League Men,AFC
+🇦🇺,Western United,Australia,AU,A-League Men,AFC
+🇦🇺,Auckland FC,Australia,AU,A-League Men,AFC
+🇳🇿,Auckland City,New Zealand,NZ,National League,OFC
+🇳🇿,Wellington Olympic,New Zealand,NZ,National League,OFC
+🇳🇿,Eastern Suburbs,New Zealand,NZ,National League,OFC
+🇳🇿,Auckland FC Reserves,New Zealand,NZ,National League,OFC

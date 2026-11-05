@@ -1,0 +1,6210 @@
+[
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Arsenal",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Aston Villa",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "AFC Bournemouth",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Brentford",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Brighton & Hove Albion",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Burnley",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Chelsea",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Crystal Palace",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Everton",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Fulham",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Leeds United",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Liverpool",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Manchester City",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Manchester United",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Newcastle United",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Nottingham Forest",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Sunderland",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Tottenham Hotspur",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "West Ham United",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "club": "Wolverhampton Wanderers",
+    "country": "England",
+    "country_code": "GB-ENG",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Deportivo Alavés",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Athletic Club",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Atlético Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "FC Barcelona",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Celta Vigo",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Elche",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Espanyol",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Getafe",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Girona",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Levante",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Mallorca",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Osasuna",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Real Oviedo",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Rayo Vallecano",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Real Betis",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Real Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Real Sociedad",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Sevilla",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Valencia",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇪🇸",
+    "club": "Villarreal",
+    "country": "Spain",
+    "country_code": "ES",
+    "league": "La Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Atalanta",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Bologna",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Cagliari",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Como",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Cremonese",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Fiorentina",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Genoa",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Hellas Verona",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Inter Milan",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Juventus",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Lazio",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Lecce",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "AC Milan",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Napoli",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Parma",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Pisa",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Roma",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Sassuolo",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Torino",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇹",
+    "club": "Udinese",
+    "country": "Italy",
+    "country_code": "IT",
+    "league": "Serie A",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "FC Augsburg",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Union Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Bayern Munich",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Borussia Dortmund",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Borussia Mönchengladbach",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Eintracht Frankfurt",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "SC Freiburg",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Hamburger SV",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Heidenheim",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Hoffenheim",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "1. FC Köln",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Mainz 05",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "RB Leipzig",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "FC St. Pauli",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "VfB Stuttgart",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Bayer Leverkusen",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "Werder Bremen",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇪",
+    "club": "VfL Wolfsburg",
+    "country": "Germany",
+    "country_code": "DE",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Angers",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Auxerre",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Brest",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Le Havre",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Lens",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Lille",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Lorient",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Lyon",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Marseille",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Metz",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Monaco",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Nantes",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Nice",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Paris FC",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Paris Saint-Germain",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Rennes",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Strasbourg",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇫🇷",
+    "club": "Toulouse",
+    "country": "France",
+    "country_code": "FR",
+    "league": "Ligue 1",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Ajax",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "PSV Eindhoven",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Feyenoord",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "AZ Alkmaar",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "FC Twente",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "FC Utrecht",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Heerenveen",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Go Ahead Eagles",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "NEC Nijmegen",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Sparta Rotterdam",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Fortuna Sittard",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "PEC Zwolle",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Groningen",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Heracles",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "NAC Breda",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Willem II",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Excelsior",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇱",
+    "club": "Telstar",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "league": "Eredivisie",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Benfica",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Sporting CP",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Braga",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Vitória SC",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Famalicão",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Gil Vicente",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Estoril",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Moreirense",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Rio Ave",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Santa Clara",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Arouca",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Casa Pia",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Nacional",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Alverca",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Estrela da Amadora",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "AVS",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇹",
+    "club": "Tondela",
+    "country": "Portugal",
+    "country_code": "PT",
+    "league": "Primeira Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Celtic",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Rangers",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Aberdeen",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Heart of Midlothian",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Hibernian",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Dundee United",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Motherwell",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Kilmarnock",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "St Mirren",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Falkirk",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Livingston",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "club": "Dundee",
+    "country": "Scotland",
+    "country_code": "GB-SCT",
+    "league": "Scottish Premiership",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Club Brugge",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Anderlecht",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Union Saint-Gilloise",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Genk",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Gent",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Antwerp",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Standard Liège",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Cercle Brugge",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Mechelen",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Sint-Truiden",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Westerlo",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Charleroi",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "OH Leuven",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Zulte Waregem",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "Dender",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇪",
+    "club": "La Louvière",
+    "country": "Belgium",
+    "country_code": "BE",
+    "league": "Pro League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Galatasaray",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Fenerbahçe",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Beşiktaş",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Trabzonspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Başakşehir",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Samsunspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Göztepe",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Konyaspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Antalyaspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Kasımpaşa",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Rizespor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Alanyaspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Gaziantep",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Kayserispor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Eyüpspor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Kocaelispor",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Gençlerbirliği",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇹🇷",
+    "club": "Karagümrük",
+    "country": "Turkey",
+    "country_code": "TR",
+    "league": "Süper Lig",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Olympiacos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Panathinaikos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "AEK Athens",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "PAOK",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Aris",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Volos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "OFI Crete",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Atromitos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Asteras Tripolis",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Levadiakos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Panserraikos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Kifisia",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "Panetolikos",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇬🇷",
+    "club": "AEL",
+    "country": "Greece",
+    "country_code": "GR",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Basel",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Young Boys",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Servette",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Lugano",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Zürich",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "St. Gallen",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Lausanne-Sport",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Luzern",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Sion",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Grasshopper",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Thun",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇭",
+    "club": "Winterthur",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "league": "Super League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Red Bull Salzburg",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Sturm Graz",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Rapid Wien",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Austria Wien",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "LASK",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Wolfsberger AC",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Hartberg",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Austria Klagenfurt",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Altach",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Grazer AK",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "Blau-Weiß Linz",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇦🇹",
+    "club": "WSG Tirol",
+    "country": "Austria",
+    "country_code": "AT",
+    "league": "Bundesliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "FC Copenhagen",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "FC Midtjylland",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Brøndby",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "AGF",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Nordsjælland",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Silkeborg",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Randers",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Viborg",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Sønderjyske",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "AaB",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Fredericia",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇩🇰",
+    "club": "Vejle",
+    "country": "Denmark",
+    "country_code": "DK",
+    "league": "Superliga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Malmö FF",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "AIK",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Djurgården",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Hammarby",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "IFK Göteborg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Elfsborg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Häcken",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Mjällby",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Kalmar",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Sirius",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Degerfors",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Halmstad",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Brommapojkarna",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Västerås",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "Örgryte",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇸🇪",
+    "club": "GAIS",
+    "country": "Sweden",
+    "country_code": "SE",
+    "league": "Allsvenskan",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Bodø/Glimt",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Brann",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Molde",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Rosenborg",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Viking",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Vålerenga",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Lillestrøm",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Tromsø",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Sarpsborg 08",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Fredrikstad",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Sandefjord",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "KFUM Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "HamKam",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Kristiansund",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Start",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇳🇴",
+    "club": "Aalesund",
+    "country": "Norway",
+    "country_code": "NO",
+    "league": "Eliteserien",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Zenit",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Spartak Moscow",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "CSKA Moscow",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Dynamo Moscow",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Lokomotiv Moscow",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Krasnodar",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Rubin Kazan",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Akhmat Grozny",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Rostov",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Krylia Sovetov",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Sochi",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Baltika",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Orenburg",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Akron Tolyatti",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Dynamo Makhachkala",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇺",
+    "club": "Pari Nizhny Novgorod",
+    "country": "Russia",
+    "country_code": "RU",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Shakhtar Donetsk",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Dynamo Kyiv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Zorya Luhansk",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Kryvbas",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Polissya",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Oleksandriya",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Veres Rivne",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "LNZ Cherkasy",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Kolos Kovalivka",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Metalist 1925",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Obolon Kyiv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Epitsentr",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Karpaty Lviv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇺🇦",
+    "club": "Rukh Lviv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "league": "Premier League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Legia Warsaw",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Lech Poznań",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Raków Częstochowa",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Jagiellonia Białystok",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Pogoń Szczecin",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Cracovia",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Górnik Zabrze",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Wisła Płock",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Lechia Gdańsk",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Śląsk Wrocław",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Zagłębie Lubin",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Piast Gliwice",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Widzew Łódź",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Korona Kielce",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Motor Lublin",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Radomiak Radom",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "GKS Katowice",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇵🇱",
+    "club": "Arka Gdynia",
+    "country": "Poland",
+    "country_code": "PL",
+    "league": "Ekstraklasa",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Sparta Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Slavia Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Viktoria Plzeň",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Baník Ostrava",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Mladá Boleslav",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Sigma Olomouc",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Slovan Liberec",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Hradec Králové",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Bohemians 1905",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Jablonec",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Teplice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Slovácko",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Dukla Prague",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Karviná",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "Pardubice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇨🇿",
+    "club": "České Budějovice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "league": "Czech First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Dinamo Zagreb",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Hajduk Split",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Rijeka",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Osijek",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Lokomotiva",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Gorica",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Varaždin",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Istra 1961",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Slaven Belupo",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇷",
+    "club": "Vukovar 1991",
+    "country": "Croatia",
+    "country_code": "HR",
+    "league": "HNL",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Red Star Belgrade",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Partizan",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Vojvodina",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "TSC Bačka Topola",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Čukarički",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Radnički Niš",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Novi Pazar",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Napredak",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Mladost Lučani",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Spartak Subotica",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "OFK Beograd",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇸",
+    "club": "Javor Ivanjica",
+    "country": "Serbia",
+    "country_code": "RS",
+    "league": "Super Liga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "FCSB",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "CFR Cluj",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Universitatea Craiova",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Rapid Bucharest",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Dinamo Bucharest",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Sepsi",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Farul Constanța",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "UTA Arad",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Petrolul Ploiești",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Oțelul Galați",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Hermannstadt",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Botoșani",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Csíkszereda",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Unirea Slobozia",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Universitatea Cluj",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇷🇴",
+    "club": "Metaloglobus",
+    "country": "Romania",
+    "country_code": "RO",
+    "league": "SuperLiga",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Ferencváros",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Paks",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Puskás Akadémia",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Győr",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Kisvárda",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Debrecen",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Zalaegerszeg",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Diósgyőr",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Újpest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "MTK Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Nyíregyháza",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇭🇺",
+    "club": "Kazincbarcika",
+    "country": "Hungary",
+    "country_code": "HU",
+    "league": "NB I",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Ludogorets",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Levski Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "CSKA Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Lokomotiv Plovdiv",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Cherno More",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Botev Plovdiv",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "CSKA 1948",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Beroe",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Slavia Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Arda Kardzhali",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Montana",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Spartak Varna",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Dobrudzha",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Botev Vratsa",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Septemvri Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇬",
+    "club": "Lokomotiv Sofia",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "league": "First League",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Shamrock Rovers",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Shelbourne",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Derry City",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Bohemians",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "St Patrick's Athletic",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Sligo Rovers",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Drogheda United",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Galway United",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Waterford",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Cork City",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Dundalk",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇮🇪",
+    "club": "Finn Harps",
+    "country": "Ireland",
+    "country_code": "IE",
+    "league": "League of Ireland",
+    "confederation": "UEFA"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Flamengo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Palmeiras",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Corinthians",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "São Paulo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Santos",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Fluminense",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Botafogo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Vasco da Gama",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Grêmio",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Internacional",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Atlético Mineiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Cruzeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Bahia",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Fortaleza",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Athletico Paranaense",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Bragantino",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Vitória",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Juventude",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Mirassol",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Ceará",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Sport Recife",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Remo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Coritiba",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇧🇷",
+    "club": "Chapecoense",
+    "country": "Brazil",
+    "country_code": "BR",
+    "league": "Série A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Boca Juniors",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "River Plate",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Independiente",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Racing Club",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "San Lorenzo",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Estudiantes",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Vélez Sarsfield",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Rosario Central",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Newell's Old Boys",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Lanús",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Talleres",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Argentinos Juniors",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Huracán",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Banfield",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Defensa y Justicia",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Godoy Cruz",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Belgrano",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Platense",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Tigre",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇦🇷",
+    "club": "Instituto",
+    "country": "Argentina",
+    "country_code": "AR",
+    "league": "Liga Profesional",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Peñarol",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Nacional",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Defensor Sporting",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Liverpool Montevideo",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Danubio",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Montevideo Wanderers",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Cerro Largo",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Racing Montevideo",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Boston River",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇾",
+    "club": "Plaza Colonia",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Colo-Colo",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Universidad de Chile",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Universidad Católica",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Cobreloa",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Huachipato",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Palestino",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Unión Española",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Audax Italiano",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "Coquimbo Unido",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇱",
+    "club": "O'Higgins",
+    "country": "Chile",
+    "country_code": "CL",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Atlético Nacional",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Millonarios",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "América de Cali",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Deportivo Cali",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Junior",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Independiente Santa Fe",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Once Caldas",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Deportes Tolima",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Independiente Medellín",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇨🇴",
+    "club": "Atlético Bucaramanga",
+    "country": "Colombia",
+    "country_code": "CO",
+    "league": "Categoría Primera A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "LDU Quito",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Barcelona SC",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Emelec",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Independiente del Valle",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Aucas",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "El Nacional",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Deportivo Cuenca",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇪🇨",
+    "club": "Delfín",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "league": "Serie A",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Olimpia",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Cerro Porteño",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Libertad",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Guaraní",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Nacional Asunción",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇾",
+    "club": "Sol de América",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "league": "Primera División",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Alianza Lima",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Universitario",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Sporting Cristal",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Melgar",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Cusco FC",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇵🇪",
+    "club": "Cienciano",
+    "country": "Peru",
+    "country_code": "PE",
+    "league": "Liga 1",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Atlanta United",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Austin FC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "CF Montréal",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Charlotte FC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Chicago Fire",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "FC Cincinnati",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Colorado Rapids",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Columbus Crew",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "FC Dallas",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "D.C. United",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Houston Dynamo",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Inter Miami",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "LA Galaxy",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "LAFC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Minnesota United",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Nashville SC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "New England Revolution",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "New York City FC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "New York Red Bulls",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Orlando City",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Philadelphia Union",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Portland Timbers",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Real Salt Lake",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "San Diego FC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "San Jose Earthquakes",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Seattle Sounders",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Sporting Kansas City",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "St. Louis City",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Toronto FC",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇺🇸",
+    "club": "Vancouver Whitecaps",
+    "country": "USA",
+    "country_code": "US",
+    "league": "MLS",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "América",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Guadalajara (Chivas)",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Cruz Azul",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "UNAM Pumas",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Tigres UANL",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Monterrey",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Toluca",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Santos Laguna",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "León",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Pachuca",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Atlas",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Necaxa",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Querétaro",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Puebla",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Mazatlán",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "FC Juárez",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Tijuana",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇲🇽",
+    "club": "Atlético San Luis",
+    "country": "Mexico",
+    "country_code": "MX",
+    "league": "Liga MX",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Saprissa",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Alajuelense",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Herediano",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Cartaginés",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Pérez Zeledón",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇨🇷",
+    "club": "Guadalupe",
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "league": "Primera División",
+    "confederation": "CONCACAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Enyimba",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Rangers International",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Kano Pillars",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Remo Stars",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Rivers United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Shooting Stars",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Plateau United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Bendel Insurance",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Lobi Stars",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Heartland",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Sunshine Stars",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Abia Warriors",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Niger Tornadoes",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "El-Kanemi Warriors",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Katsina United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Wikki Tourists",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Kwara United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Nasarawa United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Bayelsa United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇳🇬",
+    "club": "Gombe United",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "league": "NPFL",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Asante Kotoko",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Hearts of Oak",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Medeama",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Aduana Stars",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Bechem United",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Dreams FC",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Berekum Chelsea",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Legon Cities",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Samartex",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇬🇭",
+    "club": "Nsoatreman",
+    "country": "Ghana",
+    "country_code": "GH",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Mamelodi Sundowns",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Kaizer Chiefs",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Orlando Pirates",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Stellenbosch",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "SuperSport United",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Cape Town City",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "AmaZulu",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Sekhukhune United",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "TS Galaxy",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Royal AM",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Polokwane City",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Golden Arrows",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Chippa United",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Magesi",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Richards Bay",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇿🇦",
+    "club": "Durban City",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "league": "Premier Soccer League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Al Ahly",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Zamalek",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Pyramids",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Future FC",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Ceramica Cleopatra",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Smouha",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Al Masry",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "ENPPI",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Ismaily",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Modern Sport",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Al Mokawloon",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇪🇬",
+    "club": "Tala'ea El Gaish",
+    "country": "Egypt",
+    "country_code": "EG",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "Wydad Casablanca",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "Raja Casablanca",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "AS FAR",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "RS Berkane",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "Hassania Agadir",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "FUS Rabat",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "Maghreb Fès",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇲🇦",
+    "club": "Olympic Safi",
+    "country": "Morocco",
+    "country_code": "MA",
+    "league": "Botola Pro",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "Espérance de Tunis",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "Club Africain",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "Étoile du Sahel",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "CS Sfaxien",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "US Monastir",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇹🇳",
+    "club": "Stade Tunisien",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "USM Alger",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "CR Belouizdad",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "MC Alger",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "JS Kabylie",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "ES Sétif",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "JS Saoura",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇩🇿",
+    "club": "Paradou AC",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇳",
+    "club": "Jaraaf",
+    "country": "Senegal",
+    "country_code": "SN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇳",
+    "club": "Génération Foot",
+    "country": "Senegal",
+    "country_code": "SN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇳",
+    "club": "Teungueth FC",
+    "country": "Senegal",
+    "country_code": "SN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇳",
+    "club": "Casa Sports",
+    "country": "Senegal",
+    "country_code": "SN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇳",
+    "club": "Diambars",
+    "country": "Senegal",
+    "country_code": "SN",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇲",
+    "club": "Coton Sport",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "league": "Elite One",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇲",
+    "club": "Canon Yaoundé",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "league": "Elite One",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇲",
+    "club": "Union Douala",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "league": "Elite One",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇲",
+    "club": "Fovu Baham",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "league": "Elite One",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇲",
+    "club": "Colombe Sangmélima",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "league": "Elite One",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇩",
+    "club": "TP Mazembe",
+    "country": "DR Congo",
+    "country_code": "CD",
+    "league": "Linafoot",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇩",
+    "club": "AS Vita Club",
+    "country": "DR Congo",
+    "country_code": "CD",
+    "league": "Linafoot",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇩",
+    "club": "DC Motema Pembe",
+    "country": "DR Congo",
+    "country_code": "CD",
+    "league": "Linafoot",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇩",
+    "club": "FC Saint Eloi Lupopo",
+    "country": "DR Congo",
+    "country_code": "CD",
+    "league": "Linafoot",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇮",
+    "club": "ASEC Mimosas",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇮",
+    "club": "Africa Sports",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇮",
+    "club": "SC Gagnoa",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇨🇮",
+    "club": "Stade d'Abidjan",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "league": "Ligue 1",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "Gor Mahia",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "AFC Leopards",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "Tusker",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "Kenya Police",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "Bandari",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇰🇪",
+    "club": "Kakamega Homeboyz",
+    "country": "Kenya",
+    "country_code": "KE",
+    "league": "Premier League",
+    "confederation": "CAF"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Hilal",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Nassr",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Ittihad",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Ahli",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Shabab",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Taawoun",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Fateh",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Ettifaq",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Fayha",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Khaleej",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Damac",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Raed",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Okhdood",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Qadsiah",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Riyadh",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Neom",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Kholood",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇸🇦",
+    "club": "Al Najma",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Al Ain",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Shabab Al Ahli",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Al Wasl",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Al Jazira",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Sharjah",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Al Nasr",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Al Wahda",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Bani Yas",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Ajman",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Kalba",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Khor Fakkan",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇪",
+    "club": "Baniyas",
+    "country": "UAE",
+    "country_code": "AE",
+    "league": "Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Sadd",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Duhail",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Rayyan",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Gharafa",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Arabi",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Al Wakrah",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Qatar SC",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇶🇦",
+    "club": "Umm Salal",
+    "country": "Qatar",
+    "country_code": "QA",
+    "league": "Stars League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Persepolis",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Esteghlal",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Sepahan",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Tractor",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Foolad",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Gol Gohar",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Nassaji Mazandaran",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇷",
+    "club": "Malavan",
+    "country": "Iran",
+    "country_code": "IR",
+    "league": "Persian Gulf Pro League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Kashima Antlers",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Urawa Red Diamonds",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Vissel Kobe",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Yokohama F. Marinos",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Kawasaki Frontale",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Gamba Osaka",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Cerezo Osaka",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Sanfrecce Hiroshima",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Nagoya Grampus",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "FC Tokyo",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Kashiwa Reysol",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Avispa Fukuoka",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Machida Zelvia",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Shimizu S-Pulse",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Kyoto Sanga",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Fagiano Okayama",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Tokyo Verdy",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇯🇵",
+    "club": "Albirex Niigata",
+    "country": "Japan",
+    "country_code": "JP",
+    "league": "J1 League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Jeonbuk Hyundai Motors",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Ulsan HD",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "FC Seoul",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Pohang Steelers",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Suwon Samsung Bluewings",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Daegu FC",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Incheon United",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Gangwon FC",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Jeju United",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Gwangju FC",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Daejeon Hana Citizen",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇰🇷",
+    "club": "Gimcheon Sangmu",
+    "country": "South Korea",
+    "country_code": "KR",
+    "league": "K League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Shanghai Port",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Shandong Taishan",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Beijing Guoan",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Shanghai Shenhua",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Chengdu Rongcheng",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Zhejiang FC",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Tianjin Jinmen Tiger",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Henan FC",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Wuhan Three Towns",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Dalian Yingbo",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Qingdao West Coast",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇨🇳",
+    "club": "Changchun Yatai",
+    "country": "China",
+    "country_code": "CN",
+    "league": "Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Mohun Bagan Super Giant",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "East Bengal",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Bengaluru FC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Mumbai City",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Kerala Blasters",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "FC Goa",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Jamshedpur FC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Chennaiyin FC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "NorthEast United",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Odisha FC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Punjab FC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇮🇳",
+    "club": "Mohammedan SC",
+    "country": "India",
+    "country_code": "IN",
+    "league": "Indian Super League",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "Buriram United",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "Bangkok United",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "BG Pathum United",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "Muangthong United",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "Port FC",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇹🇭",
+    "club": "Chiangrai United",
+    "country": "Thailand",
+    "country_code": "TH",
+    "league": "Thai League 1",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Melbourne City",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Melbourne Victory",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Sydney FC",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Western Sydney Wanderers",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Central Coast Mariners",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Adelaide United",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Brisbane Roar",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Wellington Phoenix",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Newcastle Jets",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Macarthur FC",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Perth Glory",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Western United",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇦🇺",
+    "club": "Auckland FC",
+    "country": "Australia",
+    "country_code": "AU",
+    "league": "A-League Men",
+    "confederation": "AFC"
+  },
+  {
+    "flag": "🇳🇿",
+    "club": "Auckland City",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "league": "National League",
+    "confederation": "OFC"
+  },
+  {
+    "flag": "🇳🇿",
+    "club": "Wellington Olympic",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "league": "National League",
+    "confederation": "OFC"
+  },
+  {
+    "flag": "🇳🇿",
+    "club": "Eastern Suburbs",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "league": "National League",
+    "confederation": "OFC"
+  },
+  {
+    "flag": "🇳🇿",
+    "club": "Auckland FC Reserves",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "league": "National League",
+    "confederation": "OFC"
+  }
+]

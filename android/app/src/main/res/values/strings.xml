@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bettingify</string>
+    <string name="title_activity_main">Bettingify</string>
+    <string name="package_name">com.bettingify.mobile</string>
+    <string name="custom_url_scheme">com.bettingify.mobile</string>
+</resources>

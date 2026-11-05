@@ -39,39 +39,52 @@ export function assetUrl(path: string) {
   return new URL(`${base}/${path.replace(/^\/+/, '')}`, window.location.origin).toString();
 }
 
-export interface Tokens { accessToken: string; refreshToken: string }
+export interface Tokens { accessToken: string }
 
 export class ApiError extends Error {
   constructor(public status: number, public code: string, message: string, public details?: unknown) { super(message); }
 }
 
-let tokens: Tokens | null = (() => {
-  try { return JSON.parse(localStorage.getItem(STORE_KEY) ?? 'null'); } catch { return null; }
+let tokens: Tokens | null = null;
+let legacyRefreshToken: string | null = (() => {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORE_KEY) ?? 'null') as { refreshToken?: unknown } | null;
+    localStorage.removeItem(STORE_KEY);
+    return typeof saved?.refreshToken === 'string' ? saved.refreshToken : null;
+  } catch {
+    return null;
+  }
 })();
 const listeners = new Set<() => void>();
 export const onAuthLost = (fn: () => void) => { listeners.add(fn); return () => { listeners.delete(fn); }; };
 
 export function setTokens(t: Tokens | null) {
   tokens = t;
-  try {
-    if (t) localStorage.setItem(STORE_KEY, JSON.stringify(t)); else localStorage.removeItem(STORE_KEY);
-  } catch { /* storage unavailable */ }
+  try { localStorage.removeItem(STORE_KEY); } catch { /* storage unavailable */ }
 }
 export const hasTokens = () => !!tokens;
 
 let refreshing: Promise<boolean> | null = null;
 function refresh(): Promise<boolean> {
-  if (!tokens) return Promise.resolve(false);
-  refreshing ??= fetch(`${getApiBase()}/auth/refresh`, {
-    method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ refreshToken: tokens.refreshToken }),
-  }).then(async (r) => {
-    if (!r.ok) { setTokens(null); listeners.forEach((l) => l()); return false; }
-    const j = await r.json();
-    setTokens({ accessToken: j.accessToken, refreshToken: j.refreshToken });
-    return true;
-  }).catch(() => false).finally(() => { refreshing = null; });
+  if (!refreshing) {
+    const oldToken = legacyRefreshToken;
+    legacyRefreshToken = null;
+    refreshing = fetch(`${getApiBase()}/auth/refresh`, {
+      method: 'POST',
+      credentials: 'include',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify(oldToken ? { refreshToken: oldToken } : {}),
+    }).then(async (r) => {
+      if (!r.ok) { setTokens(null); listeners.forEach((l) => l()); return false; }
+      const j = await r.json();
+      if (typeof j.accessToken !== 'string') throw new Error('Refresh response did not contain an access token');
+      setTokens({ accessToken: j.accessToken });
+      return true;
+    }).catch(() => false).finally(() => { refreshing = null; });
+  }
   return refreshing;
 }
+export const refreshAccessToken = refresh;
 
 /** Access token that is valid for at least 30 more seconds (refreshes if needed). */
 export async function getValidAccessToken(): Promise<string | null> {
@@ -89,6 +102,7 @@ export async function api<T = unknown>(path: string, opts: Opts = {}): Promise<T
   const key = opts.idempotent ? crypto.randomUUID() : undefined; // same key reused on the 401 retry
   const attempt = async (): Promise<Response> => fetch(getApiBase() + path, {
     method: opts.method ?? (opts.body !== undefined ? 'POST' : 'GET'),
+    credentials: 'include',
     headers: {
       ...(opts.body !== undefined ? { 'content-type': 'application/json' } : {}),
       ...(opts.auth !== false && tokens ? { authorization: `Bearer ${tokens.accessToken}` } : {}),
@@ -98,7 +112,7 @@ export async function api<T = unknown>(path: string, opts: Opts = {}): Promise<T
   });
   let res: Response;
   try { res = await attempt(); } catch { throw new ApiError(0, 'NETWORK', 'Cannot reach the server. Check your connection.'); }
-  if (res.status === 401 && opts.auth !== false && tokens && (await refresh())) res = await attempt();
+  if (res.status === 401 && opts.auth !== false && (await refresh())) res = await attempt();
   if (res.status === 204) return undefined as T;
   const text = await res.text();
   const json = text ? JSON.parse(text) : null;

@@ -140,6 +140,7 @@ async function startDesktopApp() {
     height: 900,
     minWidth: 1024,
     minHeight: 700,
+    icon: path.join(__dirname, 'icons', process.platform === 'win32' ? 'icon.ico' : 'icon.png'),
     webPreferences: { contextIsolation: true, nodeIntegration: false, sandbox: true },
   });
   window.webContents.setWindowOpenHandler(() => ({ action: 'deny' }));
@@ -165,3 +166,5 @@ app.on('before-quit', (event) => {
     .catch((error) => console.error('[bettingify-desktop] shutdown failed', error))
     .finally(() => app.quit());
 });
+
+app.setAppUserModelId('com.bettingify.desktop');

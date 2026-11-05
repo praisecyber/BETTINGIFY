@@ -76,12 +76,19 @@
       }
     ],
     "win": {
+      "icon": "desktop/icons/icon.ico",
       "target": "nsis"
     },
+    "nsis": {
+      "installerIcon": "desktop/icons/icon.ico",
+      "uninstallerIcon": "desktop/icons/icon.ico"
+    },
     "mac": {
+      "icon": "desktop/icons/icon.icns",
       "target": "dmg"
     },
     "linux": {
+      "icon": "desktop/icons/icon.png",
       "target": "AppImage"
     }
   },

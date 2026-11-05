@@ -1,9 +1,9 @@
 import { useSyncExternalStore } from 'react';
-import { api, hasTokens, onAuthLost, setTokens } from './api';
+import { api, hasTokens, onAuthLost, refreshAccessToken, setTokens } from './api';
 import type { User, Wallet } from './types';
 
 interface State { user: User | null; wallet: Wallet | null; ready: boolean }
-let state: State = { user: null, wallet: null, ready: !hasTokens() };
+let state: State = { user: null, wallet: null, ready: false };
 const subs = new Set<() => void>();
 const set = (s: Partial<State>) => { state = { ...state, ...s }; subs.forEach((f) => f()); };
 
@@ -11,7 +11,7 @@ export const useSession = () => useSyncExternalStore((f) => { subs.add(f); retur
 export const setWallet = (wallet: Wallet) => set({ wallet });
 
 export async function initSession() {
-  if (!hasTokens()) return set({ ready: true });
+  if (!hasTokens() && !(await refreshAccessToken())) return set({ user: null, wallet: null, ready: true });
   try {
     const me = await api<User & { wallet: Wallet }>('/me');
     const { wallet, ...user } = me;
@@ -25,9 +25,9 @@ export async function refreshWallet() {
   try { set({ wallet: await api<Wallet>('/wallet') }); } catch { /* ignore */ }
 }
 
-interface AuthResponse { user: User; accessToken: string; refreshToken: string }
+interface AuthResponse { user: User; accessToken: string }
 async function finish(r: AuthResponse) {
-  setTokens({ accessToken: r.accessToken, refreshToken: r.refreshToken });
+  setTokens({ accessToken: r.accessToken });
   set({ user: r.user, ready: true });
   await refreshWallet();
 }

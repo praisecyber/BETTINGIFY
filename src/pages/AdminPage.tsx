@@ -1,15 +1,15 @@
 import { useCallback, useEffect, useState } from 'react';
 import {
-  Activity, CircleDollarSign, ClipboardList, RefreshCw, ShieldCheck,
-  Trophy, Users, Wallet,
+  Activity, CircleDollarSign, ClipboardList, Mail, Phone, RefreshCw, ShieldCheck,
+  Trophy, UserPlus, Users, Wallet,
 } from 'lucide-react';
 import { PageHeader } from '../Layout';
 import { ErrorNote } from '../components/RequireAuth';
 import { api, errMsg } from '../lib/api';
-import { useSession } from '../lib/session';
+import { login, logout, useSession } from '../lib/session';
 import type { ApiMatch, User } from '../lib/types';
 
-type Tab = 'overview' | 'users' | 'payments' | 'matches';
+type Tab = 'overview' | 'users' | 'payments' | 'matches' | 'admins';
 interface Stats {
   users: number; deposits: number; withdrawals: number; pendingWithdrawals: number;
   turnover: number; grossGamingRevenue: number; playerLiabilities: number;
@@ -26,6 +26,10 @@ interface AdminPayment {
   status: string; destination: string | null; note: string | null; createdAt: string;
 }
 interface VerificationEvent { actorId: string; age: string; identity: string; note: string | null; createdAt: string }
+interface AdminAccount {
+  id: string; email: string; phone: string; name: string; status: 'active' | 'suspended';
+  createdAt: string; createdBy: string;
+}
 type ReviewStatus = Exclude<AdminUser['ageVerificationStatus'], 'unverified'>;
 
 const TABS: { id: Tab; label: string; icon: typeof Activity }[] = [
@@ -33,6 +37,7 @@ const TABS: { id: Tab; label: string; icon: typeof Activity }[] = [
   { id: 'users', label: 'Users & KYC', icon: Users },
   { id: 'payments', label: 'Payments', icon: Wallet },
   { id: 'matches', label: 'Matches', icon: Trophy },
+  { id: 'admins', label: 'Administrators', icon: ShieldCheck },
 ];
 const money = (value: number) => new Intl.NumberFormat('en-NG', {
   style: 'currency',
@@ -52,6 +57,7 @@ export function AdminPage() {
   const [users, setUsers] = useState<AdminUser[]>([]);
   const [payments, setPayments] = useState<AdminPayment[]>([]);
   const [matches, setMatches] = useState<ApiMatch[]>([]);
+  const [admins, setAdmins] = useState<AdminAccount[]>([]);
   const [search, setSearch] = useState('');
   const [error, setError] = useState<string | null>(null);
   const [notice, setNotice] = useState<string | null>(null);
@@ -69,6 +75,8 @@ export function AdminPage() {
         setUsers((await api<{ users: AdminUser[] }>(`/admin/users${q}`)).users);
       } else if (tab === 'payments') {
         setPayments((await api<{ payments: AdminPayment[] }>('/admin/payments')).payments);
+      } else if (tab === 'admins') {
+        setAdmins((await api<{ admins: AdminAccount[] }>('/admin/admins')).admins);
       } else {
         const statuses = ['scheduled', 'live', 'finished', 'cancelled'] as const;
         const lists = await Promise.all(statuses.map((status) =>
@@ -98,13 +106,13 @@ export function AdminPage() {
   };
 
   if (!ready) return <p className="py-16 text-center text-sm text-neutral-500">Loading…</p>;
-  if (!user) return <div className="mx-auto max-w-xl rounded-2xl border border-white/10 bg-neutral-900/60 p-8 text-center"><ShieldCheck className="mx-auto mb-3 h-8 w-8 text-amber-300" /><h1 className="text-xl font-bold text-white">Sign in required</h1><p className="mt-2 text-sm text-neutral-400">Sign in with an administrator account to open this panel.</p></div>;
-  if (user.role !== 'admin') return <div className="mx-auto max-w-xl rounded-2xl border border-rose-500/20 bg-neutral-900/60 p-8 text-center"><ShieldCheck className="mx-auto mb-3 h-8 w-8 text-rose-300" /><h1 className="text-xl font-bold text-white">Administrator access only</h1><p className="mt-2 text-sm text-neutral-400">Your account is not permitted to access administrative tools.</p></div>;
+  if (!user) return <AdminSignIn />;
+  if (user.role !== 'admin') return <div className="mx-auto max-w-xl rounded-2xl border border-rose-500/20 bg-neutral-900/60 p-8 text-center"><ShieldCheck className="mx-auto mb-3 h-8 w-8 text-rose-300" /><h1 className="text-xl font-bold text-white">Administrator access only</h1><p className="mt-2 text-sm text-neutral-400">This account is not permitted to access administrative tools.</p><button onClick={() => void logout()} className="mt-5 rounded-lg border border-white/10 px-4 py-2 text-sm text-neutral-200 hover:bg-white/5">Sign out</button></div>;
 
   return (
     <div className="mx-auto max-w-7xl">
       <div className="flex flex-wrap items-end justify-between gap-3">
-        <PageHeader title="Admin panel" subtitle="Manage operations, accounts, payments, and sports markets" />
+        <PageHeader title="Admin panel" subtitle="Manage operations, accounts, payments, sports markets, and administrators" />
         <button onClick={() => void load()} disabled={loading} className="mb-5 inline-flex items-center gap-2 rounded-lg border border-white/10 px-3 py-2 text-xs font-semibold text-neutral-300 hover:bg-white/5 disabled:opacity-50">
           <RefreshCw className={`h-4 w-4 ${loading ? 'animate-spin' : ''}`} /> Refresh
         </button>
@@ -118,8 +126,100 @@ export function AdminPage() {
       {tab === 'users' && <UsersPanel users={users} search={search} setSearch={setSearch} act={act} />}
       {tab === 'payments' && <PaymentsPanel payments={payments} act={act} />}
       {tab === 'matches' && <MatchesPanel matches={matches} act={act} />}
+      {tab === 'admins' && <AdminsPanel admins={admins} onCreated={load} />}
     </div>
   );
+}
+
+function AdminSignIn() {
+  const [identifier, setIdentifier] = useState('');
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
+  const submit = async (event: React.FormEvent) => {
+    event.preventDefault();
+    setBusy(true);
+    setError(null);
+    try {
+      await login(identifier, password);
+    } catch (e) {
+      setError(errMsg(e));
+    } finally {
+      setBusy(false);
+    }
+  };
+  return <div className="mx-auto max-w-md">
+    <PageHeader title="Administrator sign in" subtitle="Sign in with an administrator account to continue" />
+    <form onSubmit={submit} className="space-y-4 rounded-2xl border border-white/10 bg-neutral-900/60 p-6">
+      <label className="block text-xs font-medium text-neutral-400">Admin email or phone
+        <span className="relative mt-1.5 block"><Mail className="absolute left-3 top-3 h-4 w-4 text-neutral-500" /><input value={identifier} onChange={(event) => setIdentifier(event.target.value)} autoComplete="username" required className="w-full rounded-lg border border-white/10 bg-white/5 py-2.5 pl-10 pr-3 text-sm text-white focus:border-green-500/50 focus:outline-none" /></span>
+      </label>
+      <label className="block text-xs font-medium text-neutral-400">Password
+        <input type="password" value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" required className="mt-1.5 w-full rounded-lg border border-white/10 bg-white/5 px-3 py-2.5 text-sm text-white focus:border-green-500/50 focus:outline-none" />
+      </label>
+      <ErrorNote msg={error} />
+      <button disabled={busy || !identifier || !password} className="w-full rounded-xl bg-green-500 py-3 text-sm font-bold text-black hover:bg-green-400 disabled:bg-neutral-800 disabled:text-neutral-600">{busy ? 'Signing in…' : 'Sign in securely'}</button>
+      <p className="text-center text-xs text-neutral-500">Administrator accounts are created by an existing administrator.</p>
+    </form>
+  </div>;
+}
+
+function AdminsPanel({ admins, onCreated }: { admins: AdminAccount[]; onCreated: () => Promise<void> }) {
+  const [email, setEmail] = useState('');
+  const [phone, setPhone] = useState('');
+  const [firstName, setFirstName] = useState('');
+  const [lastName, setLastName] = useState('');
+  const [password, setPassword] = useState('');
+  const [confirmation, setConfirmation] = useState('');
+  const [error, setError] = useState<string | null>(null);
+  const [notice, setNotice] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
+  const submit = async (event: React.FormEvent) => {
+    event.preventDefault();
+    setError(null);
+    setNotice(null);
+    if (password !== confirmation) {
+      setError('The passwords do not match.');
+      return;
+    }
+    setBusy(true);
+    try {
+      await api('/admin/admins', { body: { email, phone, firstName, lastName, password } });
+      setEmail('');
+      setPhone('');
+      setFirstName('');
+      setLastName('');
+      setPassword('');
+      setConfirmation('');
+      setNotice('Administrator account created.');
+      await onCreated();
+    } catch (e) {
+      setError(errMsg(e));
+    } finally {
+      setBusy(false);
+    }
+  };
+  return <section className="space-y-5">
+    <div><h2 className="font-semibold text-white">Create administrator</h2><p className="text-xs text-neutral-500">Only signed-in administrators can provision another admin account.</p></div>
+    <form onSubmit={submit} className="grid gap-3 rounded-2xl border border-white/5 bg-neutral-900/60 p-4 sm:grid-cols-2 sm:p-5">
+      <label className="text-xs text-neutral-400">First name<input value={firstName} onChange={(event) => setFirstName(event.target.value)} autoComplete="given-name" required maxLength={60} className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <label className="text-xs text-neutral-400">Last name<input value={lastName} onChange={(event) => setLastName(event.target.value)} autoComplete="family-name" required maxLength={60} className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <label className="text-xs text-neutral-400">Email<input type="email" value={email} onChange={(event) => setEmail(event.target.value)} autoComplete="email" required maxLength={254} className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <label className="text-xs text-neutral-400">Phone<input type="tel" value={phone} onChange={(event) => setPhone(event.target.value)} autoComplete="tel" required className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <label className="text-xs text-neutral-400">Password (12+ characters, mixed case, number and symbol)<input type="password" value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="new-password" required minLength={12} maxLength={128} className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <label className="text-xs text-neutral-400">Confirm password<input type="password" value={confirmation} onChange={(event) => setConfirmation(event.target.value)} autoComplete="new-password" required minLength={12} maxLength={128} className="mt-1.5 w-full rounded-lg border border-white/10 bg-neutral-950 px-3 py-2.5 text-sm text-white focus:outline-none" /></label>
+      <div className="space-y-2 sm:col-span-2"><ErrorNote msg={error} />{notice && <p className="text-xs text-green-300">{notice}</p>}</div>
+      <button disabled={busy} className="inline-flex items-center justify-center gap-2 rounded-xl bg-green-500 px-4 py-3 text-sm font-bold text-black hover:bg-green-400 disabled:opacity-50 sm:col-span-2"><UserPlus className="h-4 w-4" />{busy ? 'Creating…' : 'Create administrator'}</button>
+    </form>
+    <div className="space-y-3">
+      <div><h2 className="font-semibold text-white">Administrator accounts</h2><p className="text-xs text-neutral-500">Creation source is recorded for accounts created in the admin panel.</p></div>
+      {!admins.length && <p className="rounded-xl border border-white/5 bg-neutral-900/50 p-6 text-center text-sm text-neutral-500">No administrator accounts found.</p>}
+      {admins.map((admin) => <article key={admin.id} className="flex flex-wrap items-center justify-between gap-3 rounded-xl border border-white/5 bg-neutral-900/60 p-4">
+        <div><p className="font-semibold text-white">{admin.name}</p><p className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-neutral-400"><span className="inline-flex items-center gap-1"><Mail className="h-3 w-3" />{admin.email}</span><span className="inline-flex items-center gap-1"><Phone className="h-3 w-3" />{admin.phone}</span></p><p className="mt-1 text-[11px] text-neutral-600">Created by {admin.createdBy} · {date(admin.createdAt)}</p></div>
+        <span className={`text-xs font-semibold ${statusClass(admin.status)}`}>{admin.status}</span>
+      </article>)}
+    </div>
+  </section>;
 }
 
 function Overview({ stats }: { stats: Stats | null }) {
